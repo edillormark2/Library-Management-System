@@ -1,6 +1,10 @@
 # Library Management System (LMS)
 This Java-based Library Management System (LMS) is designed using Netbeans IDE. It's a comprehensive desktop application aimed at simplifying library operations, managing books, students, and records effectively.
 
+<div align="center">
+    <img width="1024" src="src/images/lms-dashboard.png">
+</div>
+
 ## Features
 - **`Check Out & Return Book`**
 : Utilizes email verification to notify students about book borrowing and return status.
